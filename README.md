@@ -4,7 +4,7 @@
 - 📚  I am studying Systems Analysis and Development
 - 💻  I am currently working as a Development and Automation intern
 - 🏢  <a href="https://atento.com/pb/" alt="AtentoBrasil" target="_blank">AtentoBrasil</a>
-- 🚀  Objective - FullStackDeveloper
+- 🚀  Objective - Mobile Developer
 ## How to reach me: 
   <a href="https://www.linkedin.com/in/kalebesantana/" target="_blank">
     <img align="center" alt="kalebe-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
@@ -17,8 +17,8 @@
 
 ## Skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="Android" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
