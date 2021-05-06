@@ -19,11 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="Html5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"  alt="Css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
 
