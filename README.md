@@ -4,7 +4,6 @@
 - 📚  I am studying Systems Analysis and Development
 - 💻  I am currently working as a Development and Automation intern
 - 🏢  <a href="https://atento.com/pb/" alt="AtentoBrasil" target="_blank">AtentoBrasil</a>
-- 🚀  Objective - Mobile Developer
 ## How to reach me: 
   <a href="https://www.linkedin.com/in/kalebesantana/" target="_blank">
     <img align="center" alt="kalebe-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
