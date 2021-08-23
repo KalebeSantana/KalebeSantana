@@ -2,7 +2,6 @@
 
 - 🗺️  I live in São Paulo - Brazil
 - 📚  I am studying Systems Analysis and Development
-- 💻  Studies focused on C#.
 
 ## How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalebesantana/)](https://www.linkedin.com/in/kalebesantana/)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santana.abrantes01@gmail.com)](mailto:santana.abrantes01@gmail.com)                           
                           
