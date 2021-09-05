@@ -1,4 +1,4 @@
-### Olá, eu o Kalebe Santana👋
+### Olá, eu sou Kalebe Santana 👋
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Atualmente focando os estudos em tecnologias Microsoft. 
