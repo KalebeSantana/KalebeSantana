@@ -1,6 +1,7 @@
 ### Olá, eu o Kalebe Santana👋
 
-- 👨‍💻  Focando os estudos em tecnologias Microsoft 
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Focando os estudos em tecnologias Microsoft. 
 
  <div>
   <a href="https://github.com/KalebeSantana">
