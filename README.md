@@ -1,6 +1,6 @@
 ### Olá, eu o Kalebe Santana👋
 
-- 👨‍💻  Focando os estudos em tecnologias Microsoft como .NET e ASP.NET
+- 👨‍💻  Focando os estudos em tecnologias Microsoft 
 
  <div>
   <a href="https://github.com/KalebeSantana">
