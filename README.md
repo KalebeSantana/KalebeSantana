@@ -1,7 +1,9 @@
-### Olá, eu sou Kalebe Santana 👋
+### Olá, eu sou Kalebe Santana 👋 
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Atualmente focando os estudos em tecnologias Microsoft. 
+
+![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
 
  <div>
   <a href="https://github.com/KalebeSantana">
@@ -13,7 +15,7 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
  </div>
-  
+
   ##
   
  <div>
