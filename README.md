@@ -3,8 +3,6 @@
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Atualmente focando os estudos em tecnologias Microsoft. 
 
-![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
-
  <div>
   <a href="https://github.com/KalebeSantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalebeSantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
