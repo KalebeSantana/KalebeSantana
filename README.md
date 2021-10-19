@@ -1,7 +1,6 @@
 ### Olá, eu sou Kalebe Santana 👋 
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 👨‍💻 Atualmente focando os estudos em tecnologias Microsoft. 
 
  <div>
   <a href="https://github.com/KalebeSantana">
@@ -11,9 +10,11 @@
  
  <div  style="display: inline_block"><br>
   <img align="center" alt="VueJs" eight="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
+  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg"> 
-  <img align="center" alt="Azure" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+  
   </div>
 
   ##
